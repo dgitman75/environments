@@ -1,5 +1,5 @@
 class profile::lamp {
-        include apache2
+        include apache
         include mysql::server
         include php
 }
