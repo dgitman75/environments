@@ -16,3 +16,7 @@ mod 'puppetlabs-stdlib'
    :git => 'https://github.com/dgitman75/testrepo.git',
    :branch => 'master'
 
+
+mod 'apache',
+   :git => 'https://github.com/dgitman75/apache.git',
+   :branch => 'master' 
